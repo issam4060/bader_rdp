@@ -1,4 +1,4 @@
-name:baderRDP
+name: issamRDP
 
 on: workflow_dispatch
 
